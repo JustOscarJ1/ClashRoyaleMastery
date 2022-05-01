@@ -12,14 +12,14 @@
     emulator.
    2. Login to Google and download Clash Royale, once downloaded; open the game.
    3.  Go to game controls in the righside menu. 
-   ![enter image description here](https://i.imgur.com/nE33iUC.png)
+![Button](https://i.imgur.com/nE33iUC.png)
    4. Click "Controls Editor" in the menu that appears.
    5. Download and import the controls in the GitHub
-   ![Import button in controls editor window](https://i.imgur.com/YyctRWZ.png)
-6. Open the .py file. *(optional)*
-7. Find `TIME_FOR_PLACEMENT` and choose how often the bot should place a card. *(optional)*
-8. Enter a Clash Royale game.
-9. Start the bot, stay tabbed into Bluestacks.
-10. 
+![Import button in controls editor window](https://i.imgur.com/YyctRWZ.png)
+   6. Open the .py file. *(optional)*
+   7. Find `TIME_FOR_PLACEMENT` and choose how often the bot should place a card. *(optional)*
+   8. Enter a Clash Royale game.
+   9. Start the bot, stay tabbed into Bluestacks.
+   10. 
 #### ***Important notice:***
 *Use this bot in accordance to Supercells [terms of service](https://supercell.com/en/terms-of-service/)! Do not use this bot without explicit permission from Supercell or you will risk being banned from Clash Royale.*
