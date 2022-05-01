@@ -12,10 +12,10 @@
     emulator.
    2. Login to Google and download Clash Royale, once downloaded; open the game.
    3.  Go to game controls in the righside menu. 
-<img width="200" height="200" src="https://i.imgur.com/nE33iUC.png">
+<img width="300" height="300" src="https://i.imgur.com/nE33iUC.png">
    4. Click "Controls Editor" in the menu that appears.
    5. Download and import the controls in the GitHub
-<img width="200" height="200" src="https://i.imgur.com/YyctRWZ.png">
+<img width="300" height="300" src="https://i.imgur.com/YyctRWZ.png">
    6. Open the .py file. *(optional)*
    7. Find `TIME_FOR_PLACEMENT` and choose how often the bot should place a card. *(optional)*
    8. Enter a Clash Royale game.
