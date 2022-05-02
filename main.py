@@ -56,11 +56,12 @@ def card_loop():
             # Game is finished
             time.sleep(1.5)
         else:
-            print(f"Attemping to place card {current_card_position}.")
             # Game is not finished
             # The maximum cards in a hand is 4, if it has surpasses that reset.
             if current_card_position == 5:
                 current_card_position = 1
+            
+            print(f"Attemping to place card {current_card_position}.")
 
             # Checks if the card is a spell.
             if check_for_spell():
