@@ -28,5 +28,8 @@
    
    9. Start the bot, stay tabbed into Bluestacks.
 
+### TBF:
+- 2x placement speed during 2x elixir. 
+
 #### ***Important notice:***
 *Use this bot in accordance to Supercells [terms of service](https://supercell.com/en/terms-of-service/)! Do not use this bot without explicit permission from Supercell or you will risk being banned from Clash Royale.*
